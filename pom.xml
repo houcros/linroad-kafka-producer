@@ -8,12 +8,12 @@
     <artifactId>linroad-kafkaproducer</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <repositories>
+    <!-- <repositories>
     		<repository>
     		    <id>jitpack.io</id>
     		    <url>https://jitpack.io</url>
     		</repository>
-    </repositories>
+    </repositories> -->
 
     <dependencies>
 
@@ -23,10 +23,15 @@
             <version>0.10.0.0</version>
         </dependency>
         <dependency>
+            <groupId>net.java.dev.jna</groupId>
+            <artifactId>jna</artifactId>
+            <version>4.2.2</version>
+        </dependency>
+        <!-- <dependency>
             <groupId>com.github.houcros</groupId>
             <artifactId>linearroad-java-driver</artifactId>
             <version>344ba11f19</version>
-        </dependency>
+        </dependency> -->
     </dependencies>
 
 </project>
