@@ -1,0 +1,6 @@
+de/twiechert/linroad/kafka/PositionReporter.class
+de/twiechert/linroad/kafka/StrTuple.class
+de/twiechert/linroad/kafka/PositionReporter$Key.class
+de/twiechert/linroad/kafka/PositionReporter$PositionTupleReceivedCallback.class
+de/twiechert/linroad/kafka/SampleConfig.class
+de/twiechert/linroad/kafka/PositionReporter$Value.class
